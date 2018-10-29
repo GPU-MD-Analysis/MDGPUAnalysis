@@ -9,8 +9,7 @@ cd <code_directory>
 make
 
 e.g.
-cd MSD
-
+cd MSD                                                                                                                                                                   
 make
 
-Note that most of the codes reads .dcd format as an input.
+Note that most of the codes read .dcd format as an input.
