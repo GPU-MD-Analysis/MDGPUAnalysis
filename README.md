@@ -1,7 +1,7 @@
 # GPU_MD_Analysis
 CUDA based GPU codes for the analysis of simulation trajectories.
 
-Please cite:
+Please cite:                                                                                                                               
 Gourav Shrivastav and Manish Agarwal,"Analyzing Molecular Simulations Trajectories by Utilizing CUDA on GPU Architecture",	arXiv:1708.08619
 
 To use the codes, 
