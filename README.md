@@ -13,3 +13,5 @@ cd MSD
 make
 
 Note that most of the codes read .dcd format as an input.
+
+Questions/queries can be addressed to the authors of the above arxiv manuscript. Also see http://web.iitd.ac.in/~zmanish.
